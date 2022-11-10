@@ -1,24 +1,24 @@
 # clean-code-typescript [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Clean%20Code%20Typescript&url=https://github.com/labs42io/clean-code-typescript)
 
-Clean Code concepts adapted for TypeScript.  
-Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript).
+מושגי קוד-נקי (clean-code) מותאמים ל-TypeScript.
+בהשראת [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript).
 
-## Table of Contents
+## תוכן עניינים
 
-  1. [Introduction](#introduction)
-  2. [Variables](#variables)
-  3. [Functions](#functions)
-  4. [Objects and Data Structures](#objects-and-data-structures)
-  5. [Classes](#classes)
+  1. [מבוא](#introduction)
+  2. [משתנים](#variables)
+  3. [פוקציות](#functions)
+  4. [אובייקטים ומבני נתונים](#objects-and-data-structures)
+  5. [מחלקה (Classes)](#classes)
   6. [SOLID](#solid)
-  7. [Testing](#testing)
+  7. [בדיקות תוכנה (Testing)](#testing)
   8. [Concurrency](#concurrency)
-  9. [Error Handling](#error-handling)
-  10. [Formatting](#formatting)
-  11. [Comments](#comments)
-  12. [Translations](#translations)
+  9. [טיפול בשגיאות](#error-handling)
+  10. [עיצוב](#formatting)
+  11. [הערות](#comments)
+  12. [תרגומים](#translations)
 
-## Introduction
+## מבוא
 
 ![Humorous image of software quality estimation as a count of how many expletives
 you shout when reading code](https://www.osnews.com/images/comics/wtfm.jpg)
